@@ -1,2 +1,2 @@
 # PythonMisc
-Miscellaneous and Tutorial Followed Python Programs
+Miscellaneous Python Programs
